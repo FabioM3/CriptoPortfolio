@@ -3,4 +3,4 @@ Portfólio para gerenciamento de Criptos
 
 Veja no Youtube:
 
-![CriptoPortfolio](/CriptoPortfolio Janela.PNG?raw=true "Title")
+![CriptoPortfolio](CriptoPortfolio_Janela.png)
